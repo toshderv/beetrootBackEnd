@@ -7,7 +7,7 @@
   <title>Document</title>
 </head>
 <body>
-  <? echo 'Hello World!';?>
-  <? echo 'Привет!';?>
+  <?echo 'Hello World!';?>
+  <?echo 'Привет!';?>
 </body>
 </html>
