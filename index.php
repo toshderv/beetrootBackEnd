@@ -8,5 +8,6 @@
 </head>
 <body>
   <? echo 'Hello World!';?>
+  <? echo 'Привет!';?>
 </body>
 </html>
